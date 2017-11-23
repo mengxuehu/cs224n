@@ -1,0 +1,3 @@
+iter 40000: 9.577164
+sanity check: cost at convergence should be around or below 10
+training took 6282 seconds
